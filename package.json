@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc && node src/index.ts",
+    "task1": "tsc && nodemon src/task1.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
