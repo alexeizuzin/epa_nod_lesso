@@ -1,0 +1,27 @@
+{"{":"@context\": \"http://www.w3.org/ns/csvw","field2":""}
+{"{":"url\": \"countries.csv"}
+{"{":"\"tableSchema\": {"}
+{"{":"\"columns\": [{"}
+{"{":"titles\": \"country","field2":""}
+{"{":"datatype\": \"string"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"country group","field2":""}
+{"{":"datatype\": \"string"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"name (en)","field2":""}
+{"{":"datatype\": \"string"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"name (fr)","field2":""}
+{"{":"datatype\": \"string"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"name (de)","field2":""}
+{"{":"datatype\": \"string"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"latitude","field2":""}
+{"{":"datatype\": \"number"}
+{"{":"}","field2":"{"}
+{"{":"titles\": \"longitude","field2":""}
+{"{":"datatype\": \"number"}
+{"{":"}]"}
+{"{":"}"}
+{"{":"}"}

@@ -1,0 +1,28 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "countries.csv"
+  "tableSchema": {
+    "columns": [{
+      "titles": "country",
+      "datatype": "string"
+    },{
+      "titles": "country group",
+      "datatype": "string"
+    },{
+      "titles": "name (en)",
+      "datatype": "string"
+    },{
+      "titles": "name (fr)",
+      "datatype": "string"
+    },{
+      "titles": "name (de)",
+      "datatype": "string"
+    },{
+      "titles": "latitude",
+      "datatype": "number"
+    },{
+      "titles": "longitude",
+      "datatype": "number"
+    }]
+  }
+}

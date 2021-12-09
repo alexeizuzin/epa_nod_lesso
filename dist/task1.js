@@ -22,7 +22,7 @@ function run() {
     return __awaiter(this, void 0, void 0, function* () {
         let str = '';
         while (str !== '/q') {
-            const str = yield askForInput("Enter any text, please: ");
+            str = yield askForInput("Enter any text, please: ");
             console.log(str.split('').reverse().join(''));
         }
     });
